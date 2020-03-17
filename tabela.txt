@@ -1,0 +1,5 @@
+simbolo;nome;atomico;linha;coluna;estado
+Hg;Mercurio;80;6;12;l
+O;Oxigenio;8;2;16;g
+Au;Ouro;79;6;11;s
+Mt;Meitnerio;109;7;9;d
